@@ -5,14 +5,13 @@
  */
 package pkg_cliente_desktop.vistas;
 
-import com.sun.xml.internal.ws.util.StringUtils;
 import java.math.BigDecimal;
 import java.math.BigInteger;
 import javax.ws.rs.core.Response;
 import javax.ws.rs.core.GenericType;
 import javax.swing.JOptionPane;
-import pkg_jersey.entidades.Parametroevaluacion;
-import pkg_jersey.jerseys.ParametroevaluacionJersey;
+import pkg_jersey_lib.entidades.Parametroevaluacion;
+import pkg_jersey_lib.jerseys.ParametroevaluacionJersey;
 
 /**
  *

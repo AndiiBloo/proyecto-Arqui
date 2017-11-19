@@ -6,8 +6,8 @@ import javax.swing.JOptionPane;
 import javax.swing.JPopupMenu;
 import javax.ws.rs.core.Response;
 import javax.ws.rs.core.GenericType;
-import pkg_jersey.entidades.Candidato;
-import pkg_jersey.jerseys.CandidatoJersey;
+import pkg_jersey_lib.entidades.Candidato;
+import pkg_jersey_lib.jerseys.CandidatoJersey;
 
 /**
  *
